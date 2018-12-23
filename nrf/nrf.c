@@ -5,6 +5,7 @@
  * Copyright 2017 Sven Gregori
  * Released under MIT License
  *
+ *  updated by Sergey Shelepin
  */
 #include <string.h>
 #include <avr/io.h>

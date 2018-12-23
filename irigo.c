@@ -2,7 +2,7 @@
  * irigo.c
  *
  * Created: 26.02.2018 12:44:45
- *  Author: USER
+ *  Author: Sergey Shelepin
  */ 
 
 
@@ -295,7 +295,7 @@ void copy_cur_schedule_parameters_to_twse(true_water_schedule_element *e, curren
 	e->start_month = c->month;
 	e->start_day = c->day;
 	e->start_hh = c->hh;
-	e->start_mi = c->mi
+	e->start_mi = c->mi;
 	e->zoneslot = c->zone_num << 2;
 	e->zoneslot |= c->ws;
 	e->status = (c->dow << 5);														 // put dow into status

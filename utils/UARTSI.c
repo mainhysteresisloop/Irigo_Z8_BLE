@@ -2,7 +2,7 @@
  * TapHead.c
  *
  * Created: 01.05.2016 14:09:24
- * Author : USER
+ * Author :  Sergey Shelepin
  */ 
 
 #define FALSE 0

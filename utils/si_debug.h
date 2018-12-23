@@ -2,7 +2,7 @@
  * si_debug.h
  *
  * Created: 26.02.2018 17:47:50
- *  Author: USER
+ *  Author:  Sergey Shelepin
  */ 
 
 

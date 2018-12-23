@@ -2,7 +2,7 @@
  * si_data_types.h
  *
  * Created: 26.02.2018 14:05:11
- *  Author: USER
+ *  Author:  Sergey Shelepin
  */ 
 
 

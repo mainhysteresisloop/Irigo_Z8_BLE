@@ -2,7 +2,7 @@
  * valve_sr595.h
  *
  * Created: 12.06.2017 13:16:11
- *  Author: USER
+ *  Author: Sergey Shelepin
  */ 
 
 

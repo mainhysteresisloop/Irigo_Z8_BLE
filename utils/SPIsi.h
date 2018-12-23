@@ -2,7 +2,7 @@
  * SPIsi.h
  *
  * Created: 25.10.2016 22:03:39
- *  Author: USER
+ *  Author:  Sergey Shelepin
  */ 
 
 

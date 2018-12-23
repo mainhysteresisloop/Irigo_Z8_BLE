@@ -5,6 +5,7 @@
  * Copyright 2017 Sven Gregori
  * Released under MIT License
  *
+ *  updated by Sergey Shelepin
  */
 #ifndef _NRF_H_
 #define _NRF_H_

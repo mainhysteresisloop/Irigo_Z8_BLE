@@ -2,7 +2,7 @@
  * SPIsi.c
  *
  * Created: 25.10.2016 15:09:20
- *  Author: USER
+ *  Author:  Sergey Shelepin
  */ 
 #include <avr/io.h>
 #include "SPIsi.h"

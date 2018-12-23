@@ -2,7 +2,7 @@
  * pcf8583.h
  *
  * Created: 09.05.2017 18:47:32
- *  Author: USER
+ *  Author: Sergey Shelepin
  */ 
 
 

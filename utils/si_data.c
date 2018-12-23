@@ -2,7 +2,7 @@
  * si_data.c
  *
  * Created: 26.02.2018 15:18:24
- *  Author: USER
+ *  Author:   Sergey Shelepin
  */ 
 
 #include "si_data.h"

@@ -2,7 +2,7 @@
  * IRIGO_Z8_BLE.c
  *
  * Created: 07.02.2018 15:16:23
- * Author : USER
+ * Author : Sergey Shelepin
  */ 
 
 //#define F_CPU 8000000 UL

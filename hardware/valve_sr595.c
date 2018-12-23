@@ -2,7 +2,7 @@
  * valve_sr595.c
  *
  * Created: 12.06.2017 13:16:37
- *  Author: USER
+ *  Author: Sergey Shelepin
  */ 
 #include "valve_sr595.h"
 #include <util/delay.h>
